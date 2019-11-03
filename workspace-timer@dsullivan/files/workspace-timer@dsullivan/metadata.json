@@ -1,0 +1,8 @@
+{
+    "last-edited": 1572653791, 
+    "uuid": "workspace-timer@dsullivan", 
+    "name": "Workspace Timer", 
+    "version": "v0.0.1", 
+    "icon": "gnome-panel-workspace-switcher", 
+    "description": "Time the current workspace."
+}
